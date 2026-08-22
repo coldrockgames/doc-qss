@@ -6,7 +6,7 @@
 |||
 
 > [!NOTE]
-> **The scriptor-oneliner:**\
+> **The qss-oneliner:**\
 > _Create your data model in minutes with a robust, professional, secure database design._
 
 Yours,\
