@@ -1,4 +1,6 @@
-<img width="960" height="128" alt="repo-banner-960x128" src="https://github.com/user-attachments/assets/ed29d23c-7173-4521-89a2-87ec1066db1e" />
+<img width="960" height="128" alt="repo-banner-960x128" src="https://github.com/user-attachments/assets/0a5ba9c5-fb79-4d1c-9445-3a1e875686c8" />
+
+# QSS (Quick Sql Scripts)
 
 
 |||
