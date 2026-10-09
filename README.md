@@ -1,4 +1,4 @@
-<img width="960" height="128" alt="repo-banner-960x128" src="https://github.com/user-attachments/assets/0a5ba9c5-fb79-4d1c-9445-3a1e875686c8" />
+<img width="960" height="128" alt="repo-banner-960x128" src="https://github.com/coldrockgames/doc-qss/blob/d031708760b7264d08aa6542bed97cb565d87ff0/assets/repo-banner-960x128.png" />
 
 ![License](https://img.shields.io/badge/License-CC_BY_SA_4.0-green.svg) ![Version](https://img.shields.io/badge/Version-2.23-orange)
 
